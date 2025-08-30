@@ -117,7 +117,6 @@ ourfirsthintisyourlastcommand
 ```
 
 First puzzle author's hint was: Follow the white rabbit
-First puzzle author's hint was: Hash the text
 
 Fifth piece of password is:
 ```
